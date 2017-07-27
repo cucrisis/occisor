@@ -1,16 +1,17 @@
 # occisor
 
-DNS trust tree scanner. 
+I a name server delegation path scanner. 
+
 ## Summary 
 
 This project was inspired by @MandatoryProgrammer Trusttrees tool, if you haven't checked it out please do. As trusttree
-this script also recursively follow all the possible delegation pathsfor a target and create a graph strucutre of the relationship along the way. 
+this tool also recursively follow all the possible delegation paths for a target and creates a graph strucutre of its relationship along the way. 
 
 
 ## Features
-- Create a networkx graph, which can be analyzed processed or transformed to other structure
-- Track whois contact email domain as part of the overall flow
-- Alerts on domain availability
+- Creates a graph, which can be analyzed processed or transformed to other structures
+- Tracks whois contact email domain as part of the overall flow
+- Tracks domain availability
 
 ## Execution 
 ```
@@ -68,7 +69,7 @@ INFO | 2017-07-27 00:30:01,270 | Drawing h.gtld-servers.net.
 INFO | 2017-07-27 00:30:01,270 | Drawing j.gtld-servers.net.
 
 
-``
+```
 
 
 ## Development
