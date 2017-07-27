@@ -4,7 +4,7 @@ Name server delegation path scanner.
 
 ## Summary 
 
-This project was inspired by @MandatoryProgrammer Trusttrees tool, if you haven't checked it out please do. As trusttree
+This project was inspired by @MandatoryProgrammer Trusttrees tool. As trusttree
 this tool also recursively follow all the possible delegation paths for a target and creates a graph strucutre of its relationship along the way. 
 
 
