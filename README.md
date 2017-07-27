@@ -12,8 +12,8 @@ this tool also recursively follow all the possible delegation paths for a target
 - Creates a graph, which can be analyzed processed or transformed to other structures
 - Tracks whois contact email domain as part of the overall flow
 - Tracks domain availability
-- [TODO] Automatic Detection of potential takeover
-- [TODO] Maltego Integration
+- [..In Progress..] Automatic Detection of potential takeover
+- [..In Progress..] Maltego Integration
 
 ## Execution 
 ```
