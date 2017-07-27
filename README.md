@@ -70,8 +70,8 @@ INFO | 2017-07-27 00:30:01,270 | Drawing j.gtld-servers.net.
 
 
 ```
-## Example Generated Graph
-[![ticonsultores.biz.ni](https://github.com/cucrisis/occisor/blob/master/resources/ticonsultores.biz.ni.png?raw=true)](https://github.com/cucrisis/occisor/blob/master/resources/ticonsultores.biz.ni.png?raw=true)
+## Example ImageGenerationReporter Graph
+[![g](https://github.com/cucrisis/occisor/blob/master/resources/ticonsultores.biz.ni.png?raw=true)](https://github.com/cucrisis/occisor/blob/master/resources/ticonsultores.biz.ni.png?raw=true)
 
 ## Development
 *Creation of DomainNameScanner:*
