@@ -1,6 +1,6 @@
 # Occisor
 
-Is name server delegation path scanner. 
+Name server delegation path scanner. 
 
 ## Summary 
 
