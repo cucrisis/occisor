@@ -70,11 +70,12 @@ INFO | 2017-07-27 00:30:01,270 | Drawing j.gtld-servers.net.
 
 
 ```
-
+## Example Generated Graph
+[![ticonsultores.biz.ni](https://github.com/cucrisis/occisor/blob/master/resources/ticonsultores.biz.ni.png?raw=true)](https://github.com/cucrisis/occisor/blob/master/resources/ticonsultores.biz.ni.png?raw=true)
 
 ## Development
 *Creation of DomainNameScanner:*
-```
+```python
 scaner = DomainNameScanner(target='google.com', reporter=Reporter('output_images'))
 scaner.scan()
 scaner.report()
@@ -82,7 +83,7 @@ scaner.report()
 ```
 
 *Create custom Reporter:*
-```
+```python
 class CustomReporter(object):
 	def __init__():
 		...
