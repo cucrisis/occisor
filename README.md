@@ -100,3 +100,11 @@ scaner.report()
 
 ```
 
+# Installation 
+
+```
+1- install graphviz
+bew install graphviz
+2- install requierements (recommended usage of virtualenv)
+pip install -r requierements
+```
