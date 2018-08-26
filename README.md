@@ -104,7 +104,7 @@ scaner.report()
 
 ```
 1- install graphviz
-bew install graphviz
-2- install requierements (recommended usage of virtualenv)
+brew install graphviz
+2- install requierements 
 pip install -r requierements
 ```
